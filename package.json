@@ -1,0 +1,14 @@
+{
+  "name": "grindstone",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Study studio for the size-reduction unit of CH21205 Mechanical Operations",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "katex": "0.16.9"
+  }
+}
